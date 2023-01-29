@@ -1,0 +1,4 @@
+discord.py==2.1.0
+requests==2.24.0
+asyncio==3.4.3
+openai==0.26.1
